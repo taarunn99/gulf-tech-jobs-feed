@@ -46,7 +46,7 @@ async function successfactors(s) {
         company: s.company,
         title: text(title[1]),
         location: cc && COUNTRY[cc] ? place.replace(/(^|,\s*)[A-Z]{2}$/, `$1${COUNTRY[cc]}`) : place,
-        url: `https://${s.host}${href[1]}`,
+        url: `https://${s.host}${href[1].replace(/&amp;/g, "&")}`,
         posted_at: null,
         posted_precision: "unknown",
         listed_date: listed,
