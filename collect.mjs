@@ -22,10 +22,45 @@ async function get(url, init = {}) {
   return { status: r.status, ms: Date.now() - t0, body: r.ok ? await r.text() : "" };
 }
 
+// robots.txt: the rules for every client ("*"), or for this collector when the file names it. Longest matching rule
+// wins, Allow wins a tie, no matching rule means allowed. No robots.txt (a 4xx answer) means allowed; a robots.txt that
+// cannot be read (server error, timeout) stops the read of that site for this run.
+async function robotsAllows(host, path) {
+  const r = await get(`https://${host}/robots.txt`, { headers: { accept: "text/plain, */*" } });
+  if (r.status >= 400 && r.status < 500) return true;
+  if (r.status !== 200) throw new Error(`robots.txt HTTP ${r.status}`);
+  const groups = [];
+  let cur = null;
+  let inAgents = false;
+  for (const raw of r.body.split(/\r?\n/)) {
+    const m = raw.replace(/#.*$/, "").trim().match(/^(user-agent|allow|disallow)\s*:\s*(.*)$/i);
+    if (!m) continue;
+    const key = m[1].toLowerCase();
+    const val = m[2].trim();
+    if (key === "user-agent") {
+      if (!cur || !inAgents) { cur = { agents: [], rules: [] }; groups.push(cur); }
+      cur.agents.push(val.toLowerCase());
+      inAgents = true;
+    } else {
+      inAgents = false;
+      if (cur && val) cur.rules.push({ allow: key === "allow", path: val });
+    }
+  }
+  const own = groups.filter((g) => g.agents.some((a) => a && a !== "*" && "gulf-tech-jobs-feed".includes(a)));
+  const rules = (own.length ? own : groups.filter((g) => g.agents.includes("*"))).flatMap((g) => g.rules);
+  let best = null;
+  for (const rule of rules) {
+    const re = new RegExp("^" + rule.path.replace(/[.+?^${}()|[\]\\]/g, "\\$&").replace(/\*/g, ".*").replace(/\\\$$/, "$"));
+    if (re.test(path) && (!best || rule.path.length > best.path.length || (rule.path.length === best.path.length && rule.allow))) best = rule;
+  }
+  return best ? best.allow : true;
+}
+
 // SAP SuccessFactors classic career site: /search/ is a plain HTML table, 25 rows a page, newest refresh first.
 // The date in the table is a refresh date, not the first posting date, so posted_at stays empty and "new" means
 // "an id this collector has not seen before".
 async function successfactors(s) {
+  if (!(await robotsAllows(s.host, "/search/"))) throw new Error("robots.txt does not allow /search/");
   const rows = [];
   let status = 0;
   for (let start = 0; start < 25 * 20; start += 25) {

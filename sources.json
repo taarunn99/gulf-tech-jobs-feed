@@ -1,6 +1,10 @@
 {
   "successfactors": [
-    { "company": "Al-Futtaim", "host": "www.afuturewithus.com", "country": "AE" }
+    { "company": "Al-Futtaim", "host": "www.afuturewithus.com", "country": "AE" },
+    { "company": "Emirates Global Aluminium (EGA)", "host": "careers.ega.ae", "country": "AE" },
+    { "company": "Halliburton", "host": "jobs.halliburton.com", "country": "AE" },
+    { "company": "Nestle", "host": "jobdetails.nestle.com", "country": "AE" },
+    { "company": "Alstom", "host": "jobsearch.alstom.com", "country": "AE" }
   ],
   "workday_test": [
     { "host": "mastercard.wd1.myworkdayjobs.com", "site": "CorporateCareers" },
