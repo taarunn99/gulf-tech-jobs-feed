@@ -1,0 +1,9 @@
+{
+  "successfactors": [
+    { "company": "Al-Futtaim", "host": "www.afuturewithus.com", "country": "AE" }
+  ],
+  "workday_test": [
+    { "host": "mastercard.wd1.myworkdayjobs.com", "site": "CorporateCareers" },
+    { "host": "visa.wd5.myworkdayjobs.com", "site": "Visa" }
+  ]
+}
