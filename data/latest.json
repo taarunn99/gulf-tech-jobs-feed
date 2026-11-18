@@ -1,7 +1,46 @@
 {
- "generated_at": "2026-11-18T12:56:38.659Z",
+ "generated_at": "2026-11-18T21:33:27.251Z",
  "keep_hours": 48,
  "rows": [
+  {
+   "id": "successfactors:jobdetails.nestle.com:1458447133",
+   "source": "successfactors",
+   "company": "Nestle",
+   "title": "Assistant Manager, Medical Representation",
+   "location": "Dubai, AE, 52185",
+   "url": "https://jobdetails.nestle.com/job/Dubai-Assistant-Manager%2C-Medical-Representation-52185/1458447133/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "Nov 18, 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T21:33:14.945Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1458457833",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "UAE National | Guest Relation Officer | Al-Futtaim Automotive | Toyota/Lexus | Abu Dhabi",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-UAE-National-Guest-Relation-Officer-Al-Futtaim-Automotive-ToyotaLexus%C2%A0-Abu-Dhabi/1458457833/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "18 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T21:33:14.945Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1458458633",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Sales Manager (Energy Management) | Al Futtaim Engineering",
+   "location": "Dubai, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Dubai-Sales-Manager-%28Energy-Management%29-Al-Futtaim-Engineering/1458458633/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "18 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T21:33:14.945Z"
+  },
   {
    "id": "successfactors:careers.ega.ae:1274352401",
    "source": "successfactors",
@@ -285,19 +324,6 @@
    "posted_at": null,
    "posted_precision": "unknown",
    "listed_date": "Nov 6, 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T12:56:24.073Z"
-  },
-  {
-   "id": "successfactors:jobs.halliburton.com:1449741900",
-   "source": "successfactors",
-   "company": "Halliburton",
-   "title": "Technician-Mechanical, Assoc",
-   "location": "Abu Dhabi, AZ, United Arab Emirates",
-   "url": "https://jobs.halliburton.com/job/Abu-Dhabi-Technician-Mechanical%2C-Assoc-AZ/1449741900/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "Nov 11, 2026",
    "second_hand": false,
    "first_seen": "2026-11-18T12:56:24.073Z"
   },
@@ -2300,19 +2326,6 @@
    "posted_at": null,
    "posted_precision": "unknown",
    "listed_date": "6 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T10:03:43.398Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1456286233",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Regional Food Commercial Leader | Retail | IKEA Regional Office Jebel Ali",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-Regional-Food-Commercial-Leader-Retail-IKEA-Regional-Office-Jebel-Ali/1456286233/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "11 Nov 2026",
    "second_hand": false,
    "first_seen": "2026-11-18T10:03:43.398Z"
   },
