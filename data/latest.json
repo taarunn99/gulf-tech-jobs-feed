@@ -1,7 +1,46 @@
 {
- "generated_at": "2026-11-18T11:39:04.150Z",
+ "generated_at": "2026-11-18T12:40:49.077Z",
  "keep_hours": 48,
  "rows": [
+  {
+   "id": "successfactors:www.afuturewithus.com:1457846033",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Product Marketing Executive | Al-Futtaim Automotive | Dubai",
+   "location": "United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Product-Marketing-Executive-Al-Futtaim-Automotive-Dubai/1457846033/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "17 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T12:40:40.628Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1458407433",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Kitchen Specialist | Retail | IKEA YAS",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-Kitchen-Specialist-Retail-IKEA-YAS/1458407433/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "18 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T12:40:40.628Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1458419033",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Visual Merchandiser | Retail | IKEA YAS",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-Visual-Merchandiser-Retail-IKEA-YAS/1458419033/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "18 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T12:40:40.628Z"
+  },
   {
    "id": "successfactors:www.afuturewithus.com:1458364133",
    "source": "successfactors",

@@ -1,12 +1,12 @@
 {
- "started_at": "2026-11-18T11:38:56.444Z",
- "finished_at": "2026-11-18T11:39:04.150Z",
+ "started_at": "2026-11-18T12:40:40.628Z",
+ "finished_at": "2026-11-18T12:40:49.077Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
    "ok": true,
    "status": 200,
-   "listed": 199,
+   "listed": 202,
    "new": 3
   }
  },
@@ -14,15 +14,15 @@
   {
    "host": "mastercard.wd1.myworkdayjobs.com",
    "status": 429,
-   "ms": 47,
+   "ms": 49,
    "total": null
   },
   {
    "host": "visa.wd5.myworkdayjobs.com",
-   "status": 200,
-   "ms": 681,
-   "total": 13
+   "status": 429,
+   "ms": 52,
+   "total": null
   }
  ],
- "rows": 199
+ "rows": 202
 }
