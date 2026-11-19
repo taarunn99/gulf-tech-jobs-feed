@@ -1,7 +1,59 @@
 {
- "generated_at": "2026-11-19T02:47:10.497Z",
+ "generated_at": "2026-11-19T10:48:20.031Z",
  "keep_hours": 48,
  "rows": [
+  {
+   "id": "successfactors:www.afuturewithus.com:1435559533",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Sonographer, HealthHub Clinic, Dubai Festival City, Dubai, UAE",
+   "location": "United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Sonographer%2C-HealthHub-Clinic%2C-Dubai-Festival-City%2C-Dubai%2C-UAE/1435559533/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "7 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-19T10:48:05.612Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1442497133",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Senior Customer Experience Manager | Al-Futtaim Electric Mobility | Denza & YangWang",
+   "location": "Dubai, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Dubai-Senior-Customer-Experience-Manager-Al-Futtaim-Electric-Mobility-Denza-&-YangWang/1442497133/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "28 Oct 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-19T10:48:05.612Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1458673133",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Parts Inventory Control Executive | Al-Futtaim Automotive | FAMCO | Dubai",
+   "location": "Dubai, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Dubai-Parts-Inventory-Control-Executive-Al-Futtaim-Automotive-FAMCO-Dubai/1458673133/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "19 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-19T10:48:05.612Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1458768833",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Planning Manager- Food/ Demand Planner | Retail | M&S - Food | UAE",
+   "location": "Dubai, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Dubai-Planning-Manager-Food-Demand-Planner-Retail-M&S-Food-UAE/1458768833/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "19 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-19T10:48:05.612Z"
+  },
   {
    "id": "successfactors:jobdetails.nestle.com:1458447133",
    "source": "successfactors",
@@ -297,7 +349,7 @@
    "url": "https://jobs.halliburton.com/job/Az-Zahra&apos;-Intern-&-Entry-Level-Graduates-AZ/1432333400/",
    "posted_at": null,
    "posted_precision": "unknown",
-   "listed_date": "Oct 21, 2026",
+   "listed_date": "Nov 19, 2026",
    "second_hand": false,
    "first_seen": "2026-11-18T12:56:24.073Z"
   },
@@ -310,7 +362,7 @@
    "url": "https://jobs.halliburton.com/job/Dubai-Intern-&-Entry-Level-Graduate-DU/1432338500/",
    "posted_at": null,
    "posted_precision": "unknown",
-   "listed_date": "Oct 21, 2026",
+   "listed_date": "Nov 19, 2026",
    "second_hand": false,
    "first_seen": "2026-11-18T12:56:24.073Z"
   },
@@ -1134,19 +1186,6 @@
    "first_seen": "2026-11-18T10:03:43.398Z"
   },
   {
-   "id": "successfactors:www.afuturewithus.com:1445604333",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "UAE National | Service Contracts Executive | Al-Futtaim Automotive | FAMCO | Dubai",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-UAE-National-Service-Contracts-Executive-Al-Futtaim-Automotive-FAMCO%C2%A0-Dubai/1445604333/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "6 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T10:03:43.398Z"
-  },
-  {
    "id": "successfactors:www.afuturewithus.com:1445605133",
    "source": "successfactors",
    "company": "Al-Futtaim",
@@ -1296,6 +1335,19 @@
    "title": "Sales Executive | Al-Futtaim Electric Mobility",
    "location": "Dubai, United Arab Emirates",
    "url": "https://www.afuturewithus.com/job/Dubai-Sales-Executive-Al-Futtaim-Electric-Mobility/1446324433/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "10 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-18T10:03:43.398Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1446327533",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Watch Technician | Retail | AlFuttaim Watches & Jewellery, Dubai",
+   "location": "Dubai, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Dubai-Watch-Technician-Retail-AlFuttaim-Watches-&-Jewellery%2C-Dubai/1446327533/",
    "posted_at": null,
    "posted_precision": "unknown",
    "listed_date": "10 Nov 2026",
@@ -1693,19 +1745,6 @@
    "first_seen": "2026-11-18T10:03:43.398Z"
   },
   {
-   "id": "successfactors:www.afuturewithus.com:1450705033",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Master Technician | Al-Futtaim Electric Mobility | BYD",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Master-Technician-Al-Futtaim-Electric-Mobility-BYD/1450705033/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "23 Oct 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T10:03:43.398Z"
-  },
-  {
    "id": "successfactors:www.afuturewithus.com:1450974033",
    "source": "successfactors",
    "company": "Al-Futtaim",
@@ -1868,19 +1907,6 @@
    "title": "Reception Supervisor | Al-Futtaim Automotive | UAE",
    "location": "United Arab Emirates",
    "url": "https://www.afuturewithus.com/job/Reception-Supervisor-Al-Futtaim-Automotive-UAE/1451995833/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "28 Oct 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T10:03:43.398Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1452005433",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Storekeeper | Al-Futtaim Automotive | UAE",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Storekeeper-Al-Futtaim-Automotive-UAE/1452005433/",
    "posted_at": null,
    "posted_precision": "unknown",
    "listed_date": "28 Oct 2026",
