@@ -1,13 +1,13 @@
 {
- "started_at": "2026-11-18T21:33:14.945Z",
- "finished_at": "2026-11-18T21:33:27.251Z",
+ "started_at": "2026-11-19T02:47:00.884Z",
+ "finished_at": "2026-11-19T02:47:10.497Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
    "ok": true,
    "status": 200,
-   "listed": 203,
-   "new": 2
+   "listed": 202,
+   "new": 0
   },
   "successfactors:careers.ega.ae": {
    "ok": true,
@@ -25,7 +25,7 @@
    "ok": true,
    "status": 200,
    "listed": 5,
-   "new": 1
+   "new": 0
   },
   "successfactors:jobsearch.alstom.com": {
    "ok": true,
@@ -38,15 +38,15 @@
   {
    "host": "mastercard.wd1.myworkdayjobs.com",
    "status": 429,
-   "ms": 85,
+   "ms": 45,
    "total": null
   },
   {
    "host": "visa.wd5.myworkdayjobs.com",
    "status": 429,
-   "ms": 279,
+   "ms": 51,
    "total": null
   }
  ],
- "rows": 228
+ "rows": 227
 }
