@@ -1,25 +1,25 @@
 {
- "started_at": "2026-11-20T17:52:56.831Z",
- "finished_at": "2026-11-20T17:53:12.423Z",
+ "started_at": "2026-11-20T23:56:01.153Z",
+ "finished_at": "2026-11-20T23:56:17.408Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
    "ok": true,
    "status": 200,
-   "listed": 219,
-   "new": 6
+   "listed": 215,
+   "new": 0
   },
   "successfactors:careers.ega.ae": {
    "ok": true,
    "status": 200,
-   "listed": 14,
+   "listed": 11,
    "new": 0
   },
   "successfactors:jobs.halliburton.com": {
    "ok": true,
    "status": 200,
    "listed": 6,
-   "new": 1
+   "new": 0
   },
   "successfactors:jobdetails.nestle.com": {
    "ok": true,
@@ -38,15 +38,15 @@
   {
    "host": "mastercard.wd1.myworkdayjobs.com",
    "status": 429,
-   "ms": 90,
+   "ms": 63,
    "total": null
   },
   {
    "host": "visa.wd5.myworkdayjobs.com",
    "status": 200,
-   "ms": 777,
-   "total": 13
+   "ms": 747,
+   "total": 12
   }
  ],
- "rows": 38
+ "rows": 35
 }

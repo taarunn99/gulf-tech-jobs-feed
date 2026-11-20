@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:53:12.423Z",
+ "generated_at": "2026-11-20T23:56:17.408Z",
  "keep_hours": 48,
  "rows": [
   {
@@ -456,45 +456,6 @@
    "listed_date": "19 Nov 2026",
    "second_hand": false,
    "first_seen": "2026-11-19T10:48:05.612Z"
-  },
-  {
-   "id": "successfactors:jobdetails.nestle.com:1458447133",
-   "source": "successfactors",
-   "company": "Nestle",
-   "title": "Assistant Manager, Medical Representation",
-   "location": "Dubai, AE, 52185",
-   "url": "https://jobdetails.nestle.com/job/Dubai-Assistant-Manager%2C-Medical-Representation-52185/1458447133/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "Nov 18, 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T21:33:14.945Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1458457833",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "UAE National | Guest Relation Officer | Al-Futtaim Automotive | Toyota/Lexus | Abu Dhabi",
-   "location": "Abu Dhabi, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-UAE-National-Guest-Relation-Officer-Al-Futtaim-Automotive-ToyotaLexus%C2%A0-Abu-Dhabi/1458457833/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T21:33:14.945Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1458458633",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Sales Manager (Energy Management) | Al Futtaim Engineering",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-Sales-Manager-%28Energy-Management%29-Al-Futtaim-Engineering/1458458633/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-18T21:33:14.945Z"
   }
  ]
 }
