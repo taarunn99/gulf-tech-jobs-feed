@@ -1,13 +1,13 @@
 {
- "started_at": "2026-11-21T15:15:44.585Z",
- "finished_at": "2026-11-21T15:16:15.260Z",
+ "started_at": "2026-11-21T20:56:23.586Z",
+ "finished_at": "2026-11-21T20:56:39.347Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
    "ok": true,
    "status": 200,
-   "listed": 215,
-   "new": 0
+   "listed": 214,
+   "new": 7
   },
   "successfactors:careers.ega.ae": {
    "ok": true,
@@ -16,8 +16,10 @@
    "new": 0
   },
   "successfactors:jobs.halliburton.com": {
-   "ok": false,
-   "error": "The operation was aborted due to timeout"
+   "ok": true,
+   "status": 200,
+   "listed": 6,
+   "new": 0
   },
   "successfactors:jobdetails.nestle.com": {
    "ok": true,
@@ -42,9 +44,9 @@
   {
    "host": "visa.wd5.myworkdayjobs.com",
    "status": 429,
-   "ms": 42,
+   "ms": 50,
    "total": null
   }
  ],
- "rows": 29
+ "rows": 25
 }
