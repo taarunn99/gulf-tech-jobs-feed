@@ -1,6 +1,6 @@
 {
- "started_at": "2026-11-21T06:55:05.983Z",
- "finished_at": "2026-11-21T06:55:16.763Z",
+ "started_at": "2026-11-21T15:15:44.585Z",
+ "finished_at": "2026-11-21T15:16:15.260Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
@@ -16,10 +16,8 @@
    "new": 0
   },
   "successfactors:jobs.halliburton.com": {
-   "ok": true,
-   "status": 200,
-   "listed": 6,
-   "new": 0
+   "ok": false,
+   "error": "The operation was aborted due to timeout"
   },
   "successfactors:jobdetails.nestle.com": {
    "ok": true,
@@ -38,15 +36,15 @@
   {
    "host": "mastercard.wd1.myworkdayjobs.com",
    "status": 429,
-   "ms": 50,
+   "ms": 49,
    "total": null
   },
   {
    "host": "visa.wd5.myworkdayjobs.com",
    "status": 429,
-   "ms": 49,
+   "ms": 42,
    "total": null
   }
  ],
- "rows": 35
+ "rows": 29
 }
