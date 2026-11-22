@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:25:03.474Z",
+ "generated_at": "2026-11-22T21:58:26.585Z",
  "keep_hours": 48,
  "rows": [
   {
@@ -105,110 +105,6 @@
    "listed_date": "10 Nov 2026",
    "second_hand": false,
    "first_seen": "2026-11-21T20:56:23.586Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1449285333",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Assistant Manager Motor Claims - UAE National I Dubai | Financial Services| Orient Insurance PJSC",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Assistant-Manager-Motor-Claims-UAE-National-I-Dubai-Financial-Services-Orient-Insurance-PJSC/1449285333/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-21T20:56:23.586Z"
-  },
-  {
-   "id": "successfactors:jobs.halliburton.com:1452498900",
-   "source": "successfactors",
-   "company": "Halliburton",
-   "title": "Accountant, Principal",
-   "location": "Abu Dhabi, AZ, United Arab Emirates",
-   "url": "https://jobs.halliburton.com/job/Abu-Dhabi-Accountant%2C-Principal-AZ/1452498900/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "Nov 20, 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1446314733",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Technical Advisor | Al-Futtaim Automotive | UAE",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Technical-Advisor-Al-Futtaim-Automotive-UAE/1446314733/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "9 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1457265033",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Receptionist | Al-Futtaim Automotive | Fujairah",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Receptionist-Al-Futtaim-Automotive-Fujairah/1457265033/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "13 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459199533",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Operations Manager - Cafe/ Food | Retail | UAE",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Operations-Manager-Cafe-Food-Retail-UAE/1459199533/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "20 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459231433",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "UAEN CRM Executive | Retail | UAE",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-UAEN-CRM-Executive-Retail-UAE/1459231433/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "20 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459241233",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Maintenance Technician | Retail | IKEA Al Wahda",
-   "location": "Abu Dhabi, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-Maintenance-Technician-Retail-IKEA-Al-Wahda/1459241233/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "20 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459269233",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Aftersales Supervisor | Al-Futtaim Automotive | Ras Al Khaimah",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Aftersales-Supervisor-Al-Futtaim-Automotive-Ras-Al-Khaimah/1459269233/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "20 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-20T17:52:56.831Z"
   }
  ]
 }
