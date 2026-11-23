@@ -1,18 +1,18 @@
 {
- "started_at": "2026-11-23T11:12:17.518Z",
- "finished_at": "2026-11-23T11:12:32.294Z",
+ "started_at": "2026-11-23T22:44:30.177Z",
+ "finished_at": "2026-11-23T22:44:41.503Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
    "ok": true,
    "status": 200,
-   "listed": 210,
-   "new": 5
+   "listed": 211,
+   "new": 9
   },
   "successfactors:careers.ega.ae": {
    "ok": true,
    "status": 200,
-   "listed": 11,
+   "listed": 10,
    "new": 0
   },
   "successfactors:jobs.halliburton.com": {
@@ -38,15 +38,15 @@
   {
    "host": "mastercard.wd1.myworkdayjobs.com",
    "status": 429,
-   "ms": 107,
+   "ms": 147,
    "total": null
   },
   {
    "host": "visa.wd5.myworkdayjobs.com",
    "status": 429,
-   "ms": 97,
+   "ms": 59,
    "total": null
   }
  ],
- "rows": 12
+ "rows": 15
 }
