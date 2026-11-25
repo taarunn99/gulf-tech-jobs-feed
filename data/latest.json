@@ -1,7 +1,59 @@
 {
- "generated_at": "2026-11-25T02:35:49.234Z",
+ "generated_at": "2026-11-25T11:47:32.803Z",
  "keep_hours": 48,
  "rows": [
+  {
+   "id": "successfactors:jobs.halliburton.com:1453694600",
+   "source": "successfactors",
+   "company": "Halliburton",
+   "title": "R&M Electrical Tech II",
+   "location": "Abu Dhabi, AZ, United Arab Emirates",
+   "url": "https://jobs.halliburton.com/job/Abu-Dhabi-R&M-Electrical-Tech-II-AZ/1453694600/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "Nov 25, 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-25T11:47:22.699Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1448505833",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Senior Merchandiser- Womenswear (Planning) | M&S | Retail | UAE",
+   "location": "United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Senior-Merchandiser-Womenswear-%28Planning%29-M&S-Retail-UAE/1448505833/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "14 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-25T11:47:22.699Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1460481133",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Shopping Experience Assistant - Cashier | Retail | IKEA YAS",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-Shopping-Experience-Assistant-Cashier-Retail-IKEA-YAS/1460481133/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "25 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-25T11:47:22.699Z"
+  },
+  {
+   "id": "successfactors:www.afuturewithus.com:1460524533",
+   "source": "successfactors",
+   "company": "Al-Futtaim",
+   "title": "Financial Analyst - BP&A | Al-Futtaim | Retail",
+   "location": "Dubai, United Arab Emirates",
+   "url": "https://www.afuturewithus.com/job/Dubai-Financial-Analyst-BP&A-Al-Futtaim-Retail/1460524533/",
+   "posted_at": null,
+   "posted_precision": "unknown",
+   "listed_date": "25 Nov 2026",
+   "second_hand": false,
+   "first_seen": "2026-11-25T11:47:22.699Z"
+  },
   {
    "id": "successfactors:www.afuturewithus.com:1460076333",
    "source": "successfactors",
@@ -300,71 +352,6 @@
    "listed_date": "23 Nov 2026",
    "second_hand": false,
    "first_seen": "2026-11-23T22:44:30.177Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1417238333",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "UAE National | Admin Officer | Rental & Leasing | Financial Services",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/UAE-National-Admin-Officer-Rental-&-Leasing-Financial-Services/1417238333/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "24 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-23T11:12:17.518Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1438044333",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Key Account Manager | Al-Futtaim Automotive | FAMCO",
-   "location": "Abu Dhabi, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-Key-Account-Manager-Al-Futtaim-Automotive-FAMCO/1438044333/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "24 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-23T11:12:17.518Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459547633",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Resolution Representative | Retail | IKEA Al Ain",
-   "location": "Al Ain, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Al-Ain-Resolution-Representative-Retail-IKEA-Al-Ain/1459547633/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "23 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-23T11:12:17.518Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459548533",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Aftersales Analytics Supervisor | Al-Futtaim Motors | Toyota",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-Aftersales-Analytics-Supervisor-Al-Futtaim-Motors-Toyota/1459548533/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "23 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-23T11:12:17.518Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1459562733",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Lobby Ambassador I Real Estate I UAE National",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Lobby-Ambassador-I-Real-Estate-I-UAE-National/1459562733/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "23 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-23T11:12:17.518Z"
   }
  ]
 }
