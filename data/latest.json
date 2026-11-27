@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:14:34.120Z",
+ "generated_at": "2026-11-27T22:45:52.661Z",
  "keep_hours": 48,
  "rows": [
   {
@@ -170,19 +170,6 @@
    "listed_date": "27 Nov 2026",
    "second_hand": false,
    "first_seen": "2026-11-27T14:14:22.563Z"
-  },
-  {
-   "id": "successfactors:careers.ega.ae:1460858833",
-   "source": "successfactors",
-   "company": "Emirates Global Aluminium (EGA)",
-   "title": "Utility Operator",
-   "location": "Abu Dhabi, United Arab Emirates",
-   "url": "https://careers.ega.ae/job/Abu-Dhabi-Utility-Operator/1460858833/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
   },
   {
    "id": "successfactors:www.afuturewithus.com:1449235033",
