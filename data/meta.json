@@ -1,12 +1,12 @@
 {
- "started_at": "2026-11-28T04:19:37.652Z",
- "finished_at": "2026-11-28T04:19:49.176Z",
+ "started_at": "2026-11-28T13:30:17.547Z",
+ "finished_at": "2026-11-28T13:30:30.258Z",
  "first_run": false,
  "sources": {
   "successfactors:www.afuturewithus.com": {
    "ok": true,
    "status": 200,
-   "listed": 206,
+   "listed": 205,
    "new": 0
   },
   "successfactors:careers.ega.ae": {
@@ -38,15 +38,15 @@
   {
    "host": "mastercard.wd1.myworkdayjobs.com",
    "status": 429,
-   "ms": 81,
+   "ms": 54,
    "total": null
   },
   {
    "host": "visa.wd5.myworkdayjobs.com",
    "status": 429,
-   "ms": 122,
+   "ms": 41,
    "total": null
   }
  ],
- "rows": 22
+ "rows": 12
 }

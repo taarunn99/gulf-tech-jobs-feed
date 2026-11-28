@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:19:49.176Z",
+ "generated_at": "2026-11-28T13:30:30.258Z",
  "keep_hours": 48,
  "rows": [
   {
@@ -81,19 +81,6 @@
    "first_seen": "2026-11-27T14:14:22.563Z"
   },
   {
-   "id": "successfactors:www.afuturewithus.com:1455968733",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Clinical Educator - HealthHub - Dubai Festival City",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Clinical-Educator-HealthHub-Dubai-Festival-City/1455968733/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "10 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-27T14:14:22.563Z"
-  },
-  {
    "id": "successfactors:www.afuturewithus.com:1461214833",
    "source": "successfactors",
    "company": "Al-Futtaim",
@@ -170,123 +157,6 @@
    "listed_date": "27 Nov 2026",
    "second_hand": false,
    "first_seen": "2026-11-27T14:14:22.563Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1449235033",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Assistant Manager Digital Marketing - UAE National I Dubai | Financial Services| Orient Insurance",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Assistant-Manager-Digital-Marketing-UAE-National-I-Dubai-Financial-Services-Orient-Insurance/1449235033/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1449235133",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Assistant Manager Marine Underwriter - UAE National I Dubai | Financial Services| Orient Insurance",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Assistant-Manager-Marine-Underwriter-UAE-National-I-Dubai-Financial-Services-Orient-Insurance/1449235133/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1449235933",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Assistant Manager Life Underwriter - UAE National I Dubai | Financial Services|Orient Insurance PJSC",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Assistant-Manager-Life-Underwriter-UAE-National-I-Dubai-Financial-ServicesOrient-Insurance-PJSC/1449235933/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1449285333",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Assistant Manager Motor Claims - UAE National I Dubai | Financial Services| Orient Insurance PJSC",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Assistant-Manager-Motor-Claims-UAE-National-I-Dubai-Financial-Services-Orient-Insurance-PJSC/1449285333/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "18 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1460866933",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Associate Engineer Program | Al-Futtaim Contracting",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-Associate-Engineer-Program-Al-Futtaim-Contracting/1460866933/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "26 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1460888633",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Sales Supply & Support Group Leader | Retail | IKEA YAS",
-   "location": "Abu Dhabi, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Abu-Dhabi-Sales-Supply-&-Support-Group-Leader-Retail-IKEA-YAS/1460888633/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "26 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1460988533",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "AI ML -Lead Engineer I Dubai I Financial Services I Orient Insurance PJSC",
-   "location": "United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/AI-ML-Lead-Engineer-I-Dubai-I-Financial-Services-I-Orient-Insurance-PJSC/1460988533/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "26 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1461018533",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Staff Planning Analyst | Retail | IKEA Dubai Festival City",
-   "location": "Sharjah, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Sharjah-Staff-Planning-Analyst-Retail-IKEA-Dubai-Festival-City/1461018533/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "26 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
-  },
-  {
-   "id": "successfactors:www.afuturewithus.com:1461025633",
-   "source": "successfactors",
-   "company": "Al-Futtaim",
-   "title": "Interior Designer | Retail | IKEA Jebel Ali",
-   "location": "Dubai, United Arab Emirates",
-   "url": "https://www.afuturewithus.com/job/Dubai-Interior-Designer-Retail-IKEA-Jebel-Ali/1461025633/",
-   "posted_at": null,
-   "posted_precision": "unknown",
-   "listed_date": "26 Nov 2026",
-   "second_hand": false,
-   "first_seen": "2026-11-26T12:50:56.526Z"
   }
  ]
 }
